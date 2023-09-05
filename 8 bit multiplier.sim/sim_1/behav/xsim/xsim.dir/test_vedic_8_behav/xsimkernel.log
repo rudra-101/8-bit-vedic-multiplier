@@ -1,0 +1,4 @@
+Running: xsim.dir/test_vedic_8_behav/xsimk.exe -simmode gui -wdb test_vedic_8_behav.wdb -simrunnum 0 -socket 64549
+Design successfully loaded
+Design Loading Memory Usage: 7208 KB (Peak: 7208 KB)
+Design Loading CPU Usage: 0 ms
